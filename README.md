@@ -7,6 +7,7 @@ This repository contains:
 - Jupyter Notebook containing our finetuned RoBERTa model and analysis
 - School Bullying Report Dataset
 - Presentation Deck
+- Media (Visualizations from the model analysis)
 ## Pre-requisites
 Please access the following Google Drive to download the model configs in order to load the model in the Jupyter notebook: https://drive.google.com/drive/folders/1FIUoJOBzPnNQX4IuIfIOW9O3GLwxO4_T?usp=sharing
 
